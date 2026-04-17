@@ -1,8 +1,5 @@
 👋 Hi, I’m **a1games**
 
-- I mainly develop video games in Unity, but when I get a good software idea I always execute it. Most of my products are always in development because I'm always looking to improve.
+- I develop games in Unity and other game frameworks like MonoGame and PyGame. I also make tools for Unity sometimes.
 
 - Visit my portfolio at **[a1creator.com](https://a1creator.com/)**.
-
-Please reach out to me if you are a game developer and would like to have your game on a1games.fun or in my ad-api 'IndieAds'.
-> You can read more about IndieAds and find my socials on a1creator.com.
